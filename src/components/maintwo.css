@@ -1,0 +1,117 @@
+.mainc{
+    height: 240px;
+    width: 1300px;
+    margin-top: 300px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fashionsteals{
+    height: 240px;
+    width: 370px;
+}
+.fashionbutton{
+    height: 240px;
+    width: 390px;
+    background-image: url('fashionbluebackground.jpg');
+    background-size: cover;
+    margin-left: -1px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+}
+.fashiontxt{
+    width: 230px;
+    height: 190px;
+    margin-top: 10px;
+    margin-left: -14px;
+}
+.btn1{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: -98px;
+}
+.fashionimg{
+    height: 248px;
+    width: 200px;
+    background-image: url('cloths-removebg.png');
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 180px;
+    margin-top: -222px;
+}
+.dealonkitchen{
+    height: 240px;
+    width: 370px;
+    display: flex;
+}
+.kitchenbtn{
+    height: 220px;
+    width: 250px;
+    background-image: url('kichen-removebg.png');
+    background-size: cover;
+    margin-left: 121px;
+    margin-top: -214px;
+    border-radius: 16px;
+}
+.kitchentxt{
+    height: 209px;
+    width: 200px;
+    margin-left: -3px;
+    margin-top: 13px;
+}
+.kitbtn{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: -100px;
+}
+.dealbutton{
+  height: 240px;
+  width: 390px; 
+  background-image: url('fashionbluebackground.jpg'); 
+  background-size: cover;
+   border-radius: 25px;
+    outline: none;
+    border: none;
+}
+.healthtxt{
+    height: 209px;
+    width: 350px;
+    margin-left: -3px;
+    margin-top: 13px;
+}
+.hltbtn{
+    height: 30px;
+    width: 100px;
+    margin-top: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: -255px;
+}
+.healthbtn{
+    height: 150px;
+    width: 250px;
+    background-image: url('healthandwellnessproduct-removebg.png');
+    background-size: cover;
+    margin-top: -145px;
+    margin-left: 120px;
+}
+.health{
+    height: 240px;
+    width: 370px;
+}
+.healthbutton{
+    height: 240px;
+    width: 390px;
+    background-image: url('fashionbluebackground.jpg');
+    background-size: cover;
+     border-radius: 25px;
+    outline: none;
+    border: none;
+}

@@ -1,0 +1,45 @@
+.box{
+    border: 2px solid black;
+    height: 500px;
+    width: 400px;
+    margin-left: 550px;
+    border-radius: 17px;
+    box-shadow:0px 0px 4px 4px;
+}
+.heading{
+    height: 50px;
+    width: 300px;
+    margin-left: 40px;
+    margin-top: 50px;
+    font-size: 32px;
+   font-family: cursive;
+   font-weight: bold;
+}
+.subheading{
+    height: 20px;
+    width: 300px;
+    margin-left: 49px;
+    margin-top: 0px;
+     font-size: 15px;
+   font-family: cursive;
+   font-weight: bold;
+}
+.formm{
+    height: 250px;
+    width: 300px;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+.googlelogo{
+    height: 37px;
+    width: 37px;
+    background-image: url('googlelogo.png');
+    background-size: cover;
+    margin-left: 20px;
+    margin-top: -5px;
+}
+.gmail{
+    border: 2px solid black;
+     height: 37px;
+    width: 250px;
+}

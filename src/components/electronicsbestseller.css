@@ -1,0 +1,171 @@
+.electrocontainer{
+    margin-top: 50px;
+    height: 400px; 
+    width: 1540px;
+    background-color: rgb(216, 233, 241);
+    display: flex;
+    justify-content: space-evenly;
+}
+.mouse{
+    height: 300px;
+    width: 220px;
+    margin-top: 70px;
+    font-size: 22px;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 17px;
+    
+}
+.mousetxt{
+    height: 108px;
+    border-radius: 17px;
+}
+.threefour{
+    background-color: rgb(227, 232, 237);
+}
+.adapter{
+    height: 300px;
+    width: 220px;
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 17px;
+}
+.adaptertxt{
+    height: 104px;
+    margin-top: 5px;
+    border-radius: 17px;
+}
+.kettle{
+    height: 300px;
+    width: 220px;
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 17px; 
+}
+.skettletxt{
+     height: 99px;
+     width: 218px;
+    border-radius: 17px; 
+    border-radius: 17px;
+    margin-left: -20px; 
+}
+.extension{
+    height: 300px;
+    width: 220px;
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 17px; 
+}
+.eextensiontxt{
+    height: 99px;
+     width: 218px;
+    border-radius: 17px;
+    margin-left: -20px; 
+}
+.usb{
+    height: 300px;
+    width: 220px;
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 17px; 
+}
+.uusbtxt{
+    height: 99px;
+     width: 218px;
+    border-radius: 17px; 
+     margin-left: -20px; 
+}
+.earbuds{
+    height: 300px;
+    width: 220px;
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 17px; 
+}
+.eearbudstxt{
+   height: 99px;
+     width: 218px;
+    border-radius: 17px; 
+     margin-left: -20px; 
+}
+.bestseller{
+    height: 50px;
+    width: 1480px;
+    margin-top: -60px;
+}
+.bestsellerdiv{
+    margin-top: 0px;
+    outline: none;
+}
+.viewallbtn{
+    margin-left: 1400px;
+    margin-top: -180px;
+    width: 110px;
+    font-size: 17px;
+    color: rgb(11, 87, 90);
+    background: none;
+    border: none;
+    outline: none
+}
+.viewalldiv{
+    margin-top: -30px;
+    margin-left: -30px;
+}
+.mouseimg{
+    height: 190px;
+    margin-top: 5px;
+    width: 180px;
+    margin-left: -15px;
+   background-image: url('mousepic-removebg.png');
+    background-size: 110px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.adapterimg{
+    margin-top: 18px;
+    height: 180px;
+    margin-left: 18px;
+    margin-right: 18px; 
+    background-image:url('phoneadapter-removebg.png');
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.kettleimg{
+    height: 190px;
+    margin-left: 18px;
+    margin-right: 18px;
+    background-image: url('kettlepic-removebg.png');
+    background-position: center; 
+    background-size: 130px;
+    background-repeat: no-repeat; 
+}
+.extensionimg{
+    height: 190px; 
+    margin-left: 18px;
+    margin-right: 18px; 
+    background-image: url('extension_board-removebg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150px;
+}
+.usbimg{
+  
+    height: 190px; 
+    margin-left: 18px;
+    margin-right: 18px; 
+    background-image: url('usbpics.png');
+    background-position: center;
+    background-size: 145px;
+    background-repeat: no-repeat;
+}
+.earbudsimg{
+     margin-top: 18px;
+    height: 175px;
+    margin-left: 18px;
+    margin-right: 18px; 
+    background-image: url('earbudspic-removebg.png');
+    background-position: center;
+    background-size: 190px;
+    background-repeat: no-repeat;
+}

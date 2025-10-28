@@ -1,0 +1,140 @@
+.container{
+    border:2px solid black;
+    height: 550px;
+    width: 370px;
+    margin-left: 550px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px 3px;
+}
+.head{
+    height: 50px;
+    width: 300px;
+    margin-left: -35px;
+    margin-top: 40px;
+    font-size: 28px;
+   font-weight: bold;
+}
+.subhead{
+    height: 20px;
+    width: 300px;
+    margin-left: 2px;
+    margin-top: -12px;
+     font-size: 17px;
+}
+.form{
+    height: 250px;
+    width: 300px;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.custominput{
+    width: 220px;
+    height: 25px;
+    margin-top: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: -30px;
+    margin-left: -25px;
+    outline: none;
+}
+.back{
+  display: none;
+}
+.custominput::placeholder{
+}
+.btn{
+    height: 55px;
+    width: 330px;
+    margin-top: 100px;
+    margin-left: -30px;
+    border-radius: 28px;
+    background-color: rgb(140, 215, 223);
+    color: white;
+}
+@media(max-width:578px){
+  .container{
+    border:2px solid black;
+    height: 550px;
+    width: 370px;
+    margin-left: 550px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px 3px;
+    display: none;
+}
+.head{
+    height: 50px;
+    width: 300px;
+    margin-left: -35px;
+    margin-top: 40px;
+    font-size: 28px;
+   font-weight: bold;
+   display: none;
+}
+.subhead{
+    height: 20px;
+    width: 300px;
+    margin-left: 2px;
+    margin-top: -12px;
+     font-size: 17px;
+     display: none;
+}
+.form{
+    height: 250px;
+    width: 300px;
+    margin-left: 55px;
+    margin-top: 20px;
+    display: none;
+}
+.custominput{
+    width: 220px;
+    height: 25px;
+    margin-top: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: -30px;
+    margin-left: -25px;
+    outline: none;
+    display: none;
+}
+.custominput::placeholder{
+}
+.btn{
+    height: 55px;
+    width: 330px;
+    margin-top: 100px;
+    margin-left: -30px;
+    border-radius: 28px;
+    background-color: rgb(140, 215, 223);
+    color: white;
+    display: none;
+}
+.phonesigin{
+  border: 2px solid black;
+  height: 700px;
+  width: 578px;
+}
+.close{
+  border: 2px solid black;
+  height: 40px;
+  width: 40px;
+  margin: 30px;
+  margin-top: 20px;
+
+}
+.almost{
+  border: 2px solid black;
+  width: 200px;
+  height: 30px;
+  margin-left: 30px;
+  margin-top: -30px;
+}
+.simplysigin{
+   border: 2px solid black;
+  width: 250px;
+  height: 20px;
+  margin-left: 30px;
+}
+  
+}

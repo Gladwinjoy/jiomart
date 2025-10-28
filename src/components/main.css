@@ -1,0 +1,226 @@
+.offerproducts{
+    border: 2px solid black;
+    height: 55px;
+    width: 1540px;
+    margin-left: -2px;
+}
+.iphonelogo{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-image: url('iphonelogo.png');
+    background-size: cover;
+    margin-top: -10px;
+    border: none;
+    outline: none;
+}
+.iphone{
+    margin-top: -10px;
+}
+.groceries{      
+    height: 60px;
+    width: 60px;
+   background-image: url('groceries1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -15px;
+    margin-left: -50px;
+}
+.electronics{
+    height: 48px;
+    width: 61px;
+    margin-top: -58px;
+    margin-left: -66px;
+    background-image: url('elct-removebg.png');
+    background-size: cover;
+}
+.home{
+    height: 50px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: -55px;
+}
+.homelogo{
+    height: 60px;
+    width: 90px;
+    background-image: url('home_rem.png');
+    background-size: cover;
+    padding-top: 6px;
+    margin-top: -10px;
+    margin-left: -29px;
+}
+.hometext{
+    margin-left: 40px;
+    margin-top: -72px;
+    height: 30px;
+    width: 150px;
+}
+.fashion{
+    height: 50px;
+    width: 130px;
+    margin-left: 814px;
+    margin-top: -50px;
+
+}
+.fashionlogo{
+    height: 53px;
+    width: 53px;
+    background-image: url('fashionpng-removebg.png');
+    background-size: cover;
+    margin-top: -9px;
+    margin-left: -20px;
+}
+.fashiontext{
+    margin-top: -58px;
+    margin-left: 30px;
+}
+.global{
+    height: 50px;
+    width: 140px;
+    margin-left: 950px;
+    margin-top: -50px;
+}
+.globallogo{
+    height: 53px;
+    width: 53px;
+    background-image: url('global.png');
+    background-size: cover;
+    margin-top: -9px;
+    margin-left: -20px;
+}
+.globaltext{
+    margin-top: -58px;
+    margin-left: 38px;
+}
+.offer{
+    height: 50px;
+    width: 140px;
+    margin-left: 1120px;
+    margin-top: -50px;
+}
+.offerlogo{
+    height: 53px;
+    width: 53px;
+    background-image: url('offerlogo-rem.png');
+    background-size: cover;
+    margin-top: -9px;
+    margin-left: -20px;
+}
+.offertext{
+    margin-top: -58px;
+    margin-left: 38px;
+}
+.flat{
+    height: 220px;
+    width: 1150px;
+    margin-top: 30px;
+    margin-left: 145px;
+    border-radius: 25px;
+}
+.flatbutton{
+    height: 220px;
+    width: 1150px;
+    border-radius: 25px;
+    background-image: url('offerbackground.jpg');
+    background-size: cover;
+    display: flex;
+}
+.couponcode{
+    border: 2px dotted white;
+    height: 120px;
+    width: 260px;
+    margin-left: -1px;
+    margin-top: 45px;
+    border-radius: 15px;
+}
+.coupon{
+    border: 2px dotted white;
+    height: 60px;
+    width: 260px;
+    border-radius: 15px ;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+.noworever{
+    height: 160px;
+    width: 230px;
+    margin-top: 23px;
+    margin-left: 3px;
+    color: yellow;
+    font-size: 16px;
+}
+.arrow{
+    height: 35px;
+    width: 100px;
+    background-image: url('arrow-remove.png');
+    background-size: cover;
+    margin-top: -30px;
+    margin-left: 54px;
+
+}
+.fifty{
+    height: 170px;
+    width: 400px;
+    margin-top: 8px;
+    margin-left: -40px;
+}
+.txt{
+    margin-left: -250px;
+    margin-top: 20px;
+    font-size: 58px;
+    font-weight: bolder;
+    color: goldenrod;
+}
+.rupee{
+    margin-left: -90px;
+    margin-top: -70px;
+    font-size: 58px;
+    font-weight: bolder;
+    color: goldenrod;
+}
+.five{
+   margin-left: 20px;
+    margin-top: -78px;
+    font-size: 58px;
+    font-weight: bolder; 
+    color: goldenrod; 
+}
+.off{
+    margin-left: 200px;
+    margin-top: -78px;
+    font-size: 58px;
+    font-weight: bolder;
+    color: goldenrod;  
+}
+.miniorder{
+    height: 30px;
+    width: 300px;
+    margin-left: 40px;
+    font-size: 28px;
+    color: white;
+    margin-top: -5px;
+}
+.shopnow{
+    height: 100px;
+    width: 180px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.btnshopnow{
+    border: 2px solid black;
+    margin-top: 20px;
+    height: 60px;
+    font-size: 23px;
+    width: 180px;
+    border-radius: 28px;
+    font-weight: bolder;
+    color: blue;
+}
+.Xau{
+    border: 2px dotted white;
+    height: 60px;
+    width: 280px;
+    border-radius: 15px ;
+    margin-left: -1px;
+    margin-top: -1px;
+}

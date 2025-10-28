@@ -1,0 +1,171 @@
+.header{
+    height: 80px;
+    width: 1540px;
+    margin-top: -350px;
+    background-color: rgb(16, 91, 165);
+    padding-top: 18px;
+}
+.innermainhead{
+    border-radius: 40px;
+    height: 50px;
+    width: 50px;
+    margin-left: 160px;
+    background-image: url('jiomart.png');
+    background-size: cover;
+} 
+.search{
+    height: 37px;
+    width: 539px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 60px;
+    background-image: url('searchicon-removebg.png'),url('listicon.png');
+    background-size: 45px,22px;
+    background-repeat: no-repeat,no-repeat;
+    background-position: left 10px center,right 15px center;
+
+}
+.searchbar{
+    height: 40px;
+    width: 600px;
+    margin-left: 400px;
+    border-radius: 60px;
+    background-color: rgb(16, 89, 163);
+    display: flex;
+}
+.shopicon{
+    height: 50px;
+    width: 53px;
+    margin-left: 620px;
+    margin-top: -45px;
+    background-image: url('shopicon-removebg.png');
+    background-size: cover;
+
+}
+.profileicon{
+    height: 44px;
+    width: 44px;
+    margin-left: 680px;
+    margin-top: -45px;
+    background-image: url('profile_icon-removebg.png');
+    background-size: cover;
+
+}
+.button{
+   height: 40px;
+    width: 130px;
+    margin-left: 720px;
+    margin-top: -50px;
+}
+.sigin{
+    border: 2px solid black;
+    height: 40px;
+    width: 44px;
+    margin-left: 700px;
+    margin-top: -45px;
+}
+.innerhead{
+    border: 2px solid black;
+    height:  30px;
+    width: 1520px;
+    margin-top: 8px;
+    margin-left: -2px;
+    padding: 10px;
+    background-color: rgb(24, 101, 137);
+}
+@media(max-width:600px){
+    .header{
+    height: 80px;
+    width: 1540px;
+    margin-top: -350px;
+    background-color: rgb(16, 91, 165);
+    padding-top: 18px;
+    display: none;
+}
+.innermainhead{
+    border-radius: 40px;
+    height: 50px;
+    width: 50px;
+    margin-left: 160px;
+    background-image: url('jiomart.png');
+    background-size: cover;
+    display: none;
+} 
+.search{
+    height: 37px;
+    width: 539px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 60px;
+    background-image: url('searchicon-removebg.png'),url('listicon.png');
+    background-size: 45px,22px;
+    background-repeat: no-repeat,no-repeat;
+    background-position: left 10px center,right 15px center;
+    display: none;
+
+}
+.searchbar{
+    height: 40px;
+    width: 600px;
+    margin-left: 400px;
+    border-radius: 60px;
+    background-color: rgb(16, 89, 163);
+    display: flex;
+    display: none;
+}
+.shopicon{
+    height: 50px;
+    width: 53px;
+    margin-left: 620px;
+    margin-top: -45px;
+    background-image: url('shopicon-removebg.png');
+    background-size: cover;
+    display: none;
+
+}
+.profileicon{
+    height: 44px;
+    width: 44px;
+    margin-left: 680px;
+    margin-top: -45px;
+    background-image: url('profile_icon-removebg.png');
+    background-size: cover;
+    display: none;
+
+}
+.button{
+   height: 40px;
+    width: 130px;
+    margin-left: 720px;
+    margin-top: -50px;
+    display: none;
+}
+.sigin{
+    border: 2px solid black;
+    height: 40px;
+    width: 44px;
+    margin-left: 700px;
+    margin-top: -45px;
+    display: none;
+}
+.innerhead{
+    border: 2px solid black;
+    height:  30px;
+    width: 1520px;
+    margin-top: 8px;
+    margin-left: -2px;
+    padding: 10px;
+    background-color: rgb(24, 101, 137);
+    display: none;
+}
+.phoneheader{
+    border: 2px solid black;
+    height:60px;
+    width: 600px;
+}
+
+}
