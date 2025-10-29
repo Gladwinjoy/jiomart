@@ -36,14 +36,17 @@ function Asingin() {
                     <p style={{marginLeft:"20px",fontSize:"13px",width:"350px",marginTop:"-20px"}}>By signing in,you agree to ur Terms and Conditions of Use and privacy policy</p>
             </div>
            <div className="phonesigin">
+            <form onSubmit={handleSubmit}>
             <div className="close"></div>
             <div className="almost">Almost there!</div>
             <div className="simplysigin">Simply sign in place your order</div>
             <div className="pform">
             <label style={{marginLeft:"2px"}}>Mobile Number</label><br></br>
-            <input type="number" style={{width:"380px",height:"35px",}} placeholder="+91 - " className="inputphone"></input>
+            <input type="number" style={{width:"380px",height:"35px",}} placeholder="+91 - " className="inputphone"
+            onChange={(e) => setPhone(e.target.value)}></input>
             </div>
-            <div className="siginbtn"><button className="psiginbtn">Sign In</button></div>
+            <div className="siginbtn"><button type="submit" className="psiginbtn">Sign In</button></div>
+            </form>
             <div className="bysigin">By signing in,you agree to ur Terms and Conditions of Use and privacy policy</div>
            </div>
         </div>
