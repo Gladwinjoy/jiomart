@@ -39,6 +39,11 @@ function Asingin() {
             <div className="close"></div>
             <div className="almost"></div>
             <div className="simplysigin"></div>
+            <div className="pform">
+
+            </div>
+            <div className="siginbtn"><button className="psiginbtn">Sigin</button></div>
+            <div className="bysigin"></div>
            </div>
         </div>
   )

@@ -5,6 +5,7 @@
     margin-left: 550px;
     border-radius: 20px;
     box-shadow: 0px 0px 3px 3px;
+    margin-top: 70px;
 }
 .head{
     height: 50px;
@@ -51,6 +52,9 @@
     border-radius: 28px;
     background-color: rgb(140, 215, 223);
     color: white;
+}
+.siginbtn{
+  visibility: hidden;
 }
 @media(max-width:578px){
   .container{
@@ -132,9 +136,33 @@
 }
 .simplysigin{
    border: 2px solid black;
-  width: 250px;
+  width: 280px;
   height: 20px;
   margin-left: 30px;
+}
+.pform{
+    border: 2px solid black;
+  width: 400px;
+  height: 60px;
+  margin-left: 30px;
+}
+.siginbtn{
+   border: 2px solid black;
+  width: 400px;
+  height: 50px;
+  margin-left: 30px;
+  margin-top: 150px;
+  visibility: visible;
+}
+.bysigin{
+    border: 2px solid black;
+  width: 400px;
+  height: 40px;
+  margin-left: 30px;
+}
+.psiginbtn{
+   width: 400px;
+  height: 50px
 }
   
 }
