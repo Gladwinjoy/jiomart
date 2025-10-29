@@ -56,6 +56,30 @@
 .siginbtn{
   visibility: hidden;
 }
+.almost{
+  width: 200px;
+  height: 30px;
+  margin-left: 30px;
+  margin-top: -30px;
+  visibility: hidden;
+}
+.simplysigin{
+  width: 280px;
+  height: 20px;
+  margin-left: 30px;
+  visibility: hidden;
+}
+.pform{
+  width: 400px;
+  height: 60px;
+  margin-left: 30px;
+  font-size: 15px;
+  font-weight: 480;
+  visibility: hidden;
+}
+.bysigin{
+  visibility: hidden;
+}
 @media(max-width:578px){
   .container{
     border:2px solid black;
@@ -115,54 +139,74 @@
     display: none;
 }
 .phonesigin{
-  border: 2px solid black;
   height: 700px;
   width: 578px;
 }
 .close{
-  border: 2px solid black;
-  height: 40px;
-  width: 40px;
+  height: 20px;
+  width: 20px;
   margin: 30px;
   margin-top: 20px;
+  background-image: url('crossarrow-removebg-preview.png');
+  background-size: cover;
+  margin-left: 30px;
 
 }
 .almost{
-  border: 2px solid black;
   width: 200px;
   height: 30px;
   margin-left: 30px;
-  margin-top: -30px;
+  margin-top: -17px;
+  visibility: visible;
+  font-size: 25px;
+  font-weight: bolder;
 }
 .simplysigin{
-   border: 2px solid black;
+  margin-top: 4px;
   width: 280px;
   height: 20px;
   margin-left: 30px;
+  visibility: visible;
+  font-size: 17px;
+  font-weight: 400;
 }
 .pform{
-    border: 2px solid black;
+  margin-top: 15px;
   width: 400px;
   height: 60px;
   margin-left: 30px;
+  font-size: 15px;
+  font-weight: 480;
+  visibility: visible;
+}
+.inputphone{
+  margin-top: -5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
 }
 .siginbtn{
-   border: 2px solid black;
   width: 400px;
   height: 50px;
-  margin-left: 30px;
+  margin-left: 24px;
   margin-top: 150px;
   visibility: visible;
 }
 .bysigin{
-    border: 2px solid black;
+  margin-top: 15px;
   width: 400px;
   height: 40px;
-  margin-left: 30px;
+  margin-left: 40px;
+  visibility: visible;
+  font-size: 13px;
 }
 .psiginbtn{
-   width: 400px;
-  height: 50px
-}
-  
+  width: 400px;
+  height: 50px;
+  background-color: rgb(146, 225, 234);
+  border-radius: 28px;
+  color: white;
+  font-weight: bold;
+} 
 }

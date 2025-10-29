@@ -37,13 +37,14 @@ function Asingin() {
             </div>
            <div className="phonesigin">
             <div className="close"></div>
-            <div className="almost"></div>
-            <div className="simplysigin"></div>
+            <div className="almost">Almost there!</div>
+            <div className="simplysigin">Simply sign in place your order</div>
             <div className="pform">
-
+            <label style={{marginLeft:"2px"}}>Mobile Number</label><br></br>
+            <input type="number" style={{width:"380px",height:"35px",}} placeholder="+91 - " className="inputphone"></input>
             </div>
-            <div className="siginbtn"><button className="psiginbtn">Sigin</button></div>
-            <div className="bysigin"></div>
+            <div className="siginbtn"><button className="psiginbtn">Sign In</button></div>
+            <div className="bysigin">By signing in,you agree to ur Terms and Conditions of Use and privacy policy</div>
            </div>
         </div>
   )
